@@ -9,8 +9,8 @@ Patient Records Management: Efficiently store and manage detailed patient record
 Appointment Scheduling: Streamline appointment scheduling for healthcare professionals and patients.
 Database Integration: Seamless integration with medical databases to access and update relevant information.
 User-Friendly Interface: Intuitive desktop application interface for easy navigation and usage.
-Technologies:
 
 JavaScript: Frontend development for dynamic and interactive user interfaces.
+
 Contributions:
 This project was designed and implemented with a focus on enhancing healthcare management processes. Key features were developed to address the specific needs of healthcare professionals, ensuring a comprehensive and efficient solution.
