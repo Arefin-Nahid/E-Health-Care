@@ -1,0 +1,1 @@
+E-Health-Care is a comprehensive healthcare management system for desktop application implemented in Java and JavaScript. Designed and implemented key features, including patient records management, appointment scheduling, and integration with medical databases, to streamline healthcare processes
